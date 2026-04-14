@@ -15,14 +15,11 @@ URL Shortener is a service that shortens a long URL into a short URL which is ea
 * Thymeleaf
 * Bootstrap CSS
 
-```shell
-# To build Docker image with default name sivaprasadreddy/spring-boot-url-shortener
-$  ./mvnw spring-boot:build-image
+## Screenshots
 
-# To build Docker image with custom name
-$  ./mvnw spring-boot:build-image -DdockerImageName=sivalabs/spring-boot-url-shortener
+<img width="1920" height="1080" alt="localhost1" src="https://github.com/user-attachments/assets/c0586703-7663-42e7-b013-65b44544566a" />
 
-# To run the application using Docker Compose
-$ cd docker
-$ docker compose up -d
-```
+<img width="1920" height="1080" alt="localhost2" src="https://github.com/user-attachments/assets/096b47bf-3f52-48e1-93a1-c6af29701891" />
+
+<img width="1920" height="1080" alt="localhost3" src="https://github.com/user-attachments/assets/e52c92da-8b29-4b85-93a7-1e9b7ef38c72" />
+
